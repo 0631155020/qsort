@@ -1,13 +1,1 @@
-preferably input
-
-5
-Gryffindor;220;2
-
-Slytherin;220;1
-
-Hufflepuff;180;0
-
-Ravenclaw;180;0
-
-CustomHouse;10;0
 
