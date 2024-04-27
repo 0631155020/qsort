@@ -40,7 +40,7 @@ int main()
     {
         gets(line);
         strcpy(home[i].name,strtok(line,";"));
-        home[i].score = atoi(strtok(NULL,";"));//pay attention
+        home[i].score = atoi(strtok(NULL,";"));
         home[i].wins = atoi(strtok(NULL,";"));
 
     }
