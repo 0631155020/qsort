@@ -6,7 +6,7 @@ In structure we have 3 variables:
 2. score
 3. wins
    
-Which we should write with semicolon to be able to sort it
+Which we should write with semicolon instead of spaces to be able to sort it
 
 ## Example of input:
 ```bash
